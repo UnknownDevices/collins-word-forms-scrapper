@@ -1,5 +1,4 @@
 dist/*
-test/*
 node_modules/*
 vs/*
 test/output.json
