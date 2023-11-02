@@ -1,0 +1,6 @@
+dist/*
+test/*
+node_modules/*
+vs/*
+test/output.json
+package-lock.json

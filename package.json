@@ -1,0 +1,24 @@
+{
+  "name": "collins-word-forms-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-node test/test.ts"
+  },
+  "author": "Unknown Devices",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.4.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "user-agents": "^1.1.11"
+  },
+  "files": [
+    "src"
+  ],
+  "devDependencies": {
+    "@types/user-agents": "^1.0.3"
+  }
+}
